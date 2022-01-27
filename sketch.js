@@ -12,7 +12,7 @@ var total = 12;
 var font;
 var foto, bgStatic;
 var txt = "HAPPY BIRTHDAY";
-var name = "Tia Mainariska";
+var name = "Kak Ririn Sari Wati";
 var sfxPop;
 
 function preload() {
